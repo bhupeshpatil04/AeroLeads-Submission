@@ -13,6 +13,6 @@ Generates programming blogs using AI APIs.
 
 ### Deliverables
 - Each folder contains independent code and documentation.
-- 
+  
 
 Author: Bhupesh Dipak Patil
