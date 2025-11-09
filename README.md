@@ -13,7 +13,6 @@ Generates programming blogs using AI APIs.
 
 ### Deliverables
 - Each folder contains independent code and documentation.
-- Host each app on a free platform (Render, Replit, etc.)
-- Record a short 6–7 minute YouTube demo.
+- 
 
 Author: Bhupesh Dipak Patil
